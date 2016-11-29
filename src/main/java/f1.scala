@@ -3,6 +3,9 @@
   */
 object f1 {
 
+  def fuck(): Unit ={
+    println("Crash the hole!")
+  }
   def main(args: Array[String]): Unit = {
     println("Crash Him!")
   }
