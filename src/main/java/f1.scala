@@ -5,5 +5,6 @@ object f1 {
 
   def main(args: Array[String]): Unit = {
     println("Crash Him!")
+    println()
   }
 }
